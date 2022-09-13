@@ -3,7 +3,7 @@ CS 4375 Machine Learning project portfolio
 
 
 
-You can see an [overview of machine learning here](Overview-of-ML.pdf).
+You can see an [overview of machine learning here](/Overview-of-ML/Overview-of-ML.pdf).
 
-Here you may read a [C++ Data Exploration](dataexploration.cpp).
+Here you may read a [C++ Data Exploration](/C++ Program/Overview of C++.pdf).
 
