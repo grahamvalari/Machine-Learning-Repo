@@ -18,3 +18,7 @@ In this analysis, the data set bike.csv was explored using [linear regression](/
 # Machine Learning from Scratch
 
 Read through two C++ programs exploring the titanic.csv data set, using the machine learning algorithms, [logistic regression](/ML-from-Scratch/logistic_regression.cpp) and [naive bayes](/ML-from-Scratch/naive-bayes.cpp). Overview document can be seen [here](/ML-from-Scratch/ml_from_scratch).
+
+# Search for Similarity 
+
+Read through the four rmd programs to explore the significance of [Regression](/Search-for-Similarity/Similarity_Regression.pdf), [Classification](/Search-for-Similarity/Classification.pdf), [Dimensionality Reduction](/Search-for-Similarity/DimensionalityReduction.pdf), and [Clustering](/Search-for-Similarity/Clustering.pdf) using different exploration data sets. 
