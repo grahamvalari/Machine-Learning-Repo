@@ -22,3 +22,7 @@ Read through two C++ programs exploring the titanic.csv data set, using the mach
 # Search for Similarity 
 
 Read through the four rmd programs to explore the significance of [Regression](/Search-for-Similarity/Similarity_Regression.pdf), [Classification](/Search-for-Similarity/Classification.pdf), [Dimensionality Reduction](/Search-for-Similarity/DimensionalityReduction.pdf), and [Clustering](/Search-for-Similarity/Clustering.pdf) using different exploration data sets. 
+
+# Kernel and Ensemble Methods 
+
+Read through the three .rmd programs to see [SVM Regression](/Kernel-and-Ensemble-Methods/SVMRegression.pdf), [SVM Classification](/Kernel-and-Ensemble-Methods/SVMClassification.pdf), and [Ensemble Techniques](/Kernel-and-Ensemble-Methods/EnsembleTechniques.pdf). 
